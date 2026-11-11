@@ -1,0 +1,1 @@
+sandbox:/mnt/data/tabla_periodica_futurista_con_tu_imagen.html
